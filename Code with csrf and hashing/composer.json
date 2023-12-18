@@ -1,6 +1,0 @@
-{
-    "require": {
-        "defuse/php-encryption": "^2.4",
-        "monolog/monolog": "^3.5"
-    }
-}
